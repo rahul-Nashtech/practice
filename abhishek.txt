@@ -7,7 +7,7 @@ A
 A
 B
 B
-B
+Here is conflict....
 B
 B
 B
