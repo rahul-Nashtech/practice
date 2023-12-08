@@ -13,8 +13,12 @@ A
 B
 
 B
+<<<<<<< HEAD
 B
 
+=======
+Here is conflict....
+>>>>>>> refs/remotes/origin/main
 B
 
 B
