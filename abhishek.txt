@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aabagshdhd
 B
 B
@@ -5,3 +6,6 @@ B
 C
 C
 hello i am Abhishek
+=======
+hello i am Rahul
+>>>>>>> 9ed1dd4c08886e31e2147f32e9bad22e8ff2bcf7
